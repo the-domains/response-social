@@ -1,0 +1,28 @@
+name: Response Social
+favicon: null
+layout_spectrum: 0.3211547043174505
+typography_spectrum: 0.3920635755639523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.918007485801354
+  lightness: 0.6346476972103119
+  saturation: 0.8758515880908817
+  rhythmicContrast: 0.5559708669316024
+purpose: []
